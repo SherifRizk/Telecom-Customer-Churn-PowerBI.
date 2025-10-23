@@ -7,7 +7,7 @@ This repository contains a comprehensive Power BI project analyzing customer chu
 ## 📂 Files Included
 
 *   `Telecom-Churn-Analysis-Complete.pdf`: The final project documentation, including the data model, dashboard structure, key insights, and business recommendations.
-*   `[Your-Project-Name].pbix`: The interactive Power BI dashboard file containing all analyses (Descriptive, RFM, and Churn).
+*   `Telecom Customer Churn.pbix`: The interactive Power BI dashboard file containing all analyses (Descriptive, RFM, and Churn).
 *   `telecom_customer_churn.csv`: The primary raw dataset containing customer and churn information.
 *   `telecom_zipcode_population.csv`: A supplementary dataset used for geographical enrichment.
 *   `Star-Schema.jpg`: An image of the final data model schema.
