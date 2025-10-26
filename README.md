@@ -1,7 +1,7 @@
 # Telecom Customer Churn Analysis - Power BI Project
 
 This repository contains a comprehensive Power BI project analyzing customer churn for a fictional telecommunications company. The project was completed as part of a skill assessment and demonstrates a full cycle of data analysis, from data modeling to insight delivery.
-
+## 🔗 [Dashboard Link](https://app.powerbi.com/view?r=eyJrIjoiZTQ1MDNkNDEtY2RhNi00NWM5LTgzZDYtYzM5N2NmN2YxOTJhIiwidCI6ImRmODY3OWNkLWE4MGUtNDVkOC05OWFjLWM4M2VkN2ZmOTVhMCJ9)
 ---
 
 ## 📂 Files Included
